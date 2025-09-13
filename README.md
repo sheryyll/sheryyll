@@ -1,18 +1,27 @@
-# Hi there 👋, I’m *sheryyll*
+<h1 align="center">Hi there 👋, I’m <i>sheryyll</i></h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF4C8B&center=true&vCenter=true&width=500&lines=Learning+Machine+Learning;Exploring+Blockchain+%26+Web3)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF4C8B&center=true&vCenter=true&width=500&lines=Learning+Machine+Learning;Exploring+Blockchain+%26+Web3" />
+</p>
 
-I'm a curious developer exploring the fascinating intersection of **Machine Learning** and **Web3 & Blockchain**. Passionate about continuous learning, I'm always looking for new challenges and opportunities to grow.
+<p align="center">
+I'm a curious developer exploring the fascinating intersection of <b>Machine Learning</b> and <b>Web3 & Blockchain</b>.  
+Passionate about continuous learning, I'm always looking for new challenges and opportunities to grow.
+</p>
 
 ---
 
-### 🌱 Current Focus
-* 🤖 **Machine Learning:** Building and fine-tuning models, mastering data preprocessing, and understanding model evaluation.
-* ⛓️ **Web3 & Blockchain:** Deep diving into decentralized systems and writing secure smart contracts with **Solidity**.
+<h3 align="center">🌱 Current Focus</h3>
+
+<p align="center">
+🤖 <b>Machine Learning:</b> Building and fine-tuning models, mastering data preprocessing, and understanding model evaluation.  
+<br>⛓️ <b>Web3 & Blockchain:</b> Deep diving into decentralized systems and writing secure smart contracts with <b>Solidity</b>.
+</p>
 
 ---
 
-### 🛠️ My Tech Stack
+<h3 align="center">🛠️ My Tech Stack</h3>
+
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
@@ -31,19 +40,22 @@ I'm a curious developer exploring the fascinating intersection of **Machine Lear
 
 ---
 
-### 📊 My GitHub Stats
+<h3 align="center">📊 My GitHub Stats</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-### 🔥 Streak Stats
+<h3 align="center">🔥 Streak Stats</h3>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sheryyll&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+<h3 align="center">🤝 Connect With Me</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jenishashereyl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
