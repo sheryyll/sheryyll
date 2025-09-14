@@ -43,13 +43,17 @@ Passionate about continuous learning, I'm always looking for new challenges and 
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&theme=radical&hide_border=true" />
+  <a href="https://github.com/sheryyll">
+    <img src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&theme=radical&hide_border=true" />
+  </a>
 </p>
 
 <h3 align="center">🔥 Streak Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sheryyll&theme=radical&hide_border=true" />
+  <a href="https://github.com/sheryyll">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sheryyll&theme=radical&hide_border=true" />
+  </a>
 </p>
 
 ---
