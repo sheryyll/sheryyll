@@ -32,7 +32,7 @@
   <h3 style="color:#556B2F;">🤝 Let’s Connect</h3>
   <p>
     <a href="https://www.linkedin.com/in/jenishashereyl" style="text-decoration:none; color:#738A5E; font-weight:bold;">LinkedIn</a> •
-    <a href="mailto:sheryyll@example.com" style="text-decoration:none; color:#738A5E; font-weight:bold;">Email</a>
+    <a href="mailto:jenishasheryl@gmail.com" style="text-decoration:none; color:#738A5E; font-weight:bold;">Email</a>
   </p>
 
   <p style="color:#6B584C; font-style:italic; margin-top:15px;">💡 "You will make it happen"</p>
