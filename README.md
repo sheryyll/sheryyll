@@ -1,38 +1,40 @@
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color:#FFF8F0; padding:30px; border-radius:15px; max-width:800px; margin:auto;">
 
-  <h1 style="color:#FF4C8B;">Hi there 👋, I’m <i>sheryyll</i></h1>
-
+  <h1 style="color:#D9822B; font-weight:bold; margin-bottom:5px;">
+    Hi there 👋, I’m <i>sheryyll</i>
+  </h1>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF4C8B&center=true&vCenter=true&width=500&lines=Learning+Machine+Learning;Exploring+Blockchain+%26+Web3" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=D9822B&center=true&vCenter=true&width=500&lines=Exploring+Machine+Learning;Learning+Web3+%26+Blockchain" />
   </p>
 
-  <p style="color:#6C757D; font-size:16px; max-width:600px; margin:auto;">
-    I’m a curious developer who loves exploring <b>Machine Learning</b> and <b>Web3 & Blockchain</b>.<br>
-    I enjoy learning new things, taking on challenges, and building cool projects along the way.
+  <p style="color:#6B584C; font-size:17px; max-width:600px; margin:auto; line-height:1.6;">
+    I’m a beginner developer exploring <b>Machine Learning</b> and <b>Web3 & Blockchain</b>.<br>
+    I enjoy learning new things and building small projects along the way.
   </p>
 
-  <hr style="width:50%; margin: 20px auto; border-color:#FF4C8B;">
+  <hr style="width:60px; margin:25px auto; border:3px solid #D9822B; border-radius:5px;">
 
-  <h3 style="color:#FF4C8B;">🛠️ Tech I Work With</h3>
-  <p style="color:#6C757D;">
-    C, Java, Python, HTML, CSS, Solidity, Chainlink, MetaMask, Git, GitHub, VS Code, PyCharm, Jupyter
+  <h3 style="color:#556B2F;">🛠️ Tech I’m Learning</h3>
+  <p style="color:#6B584C; font-size:16px;">
+    C • Java • Python • HTML • CSS • Solidity • Chainlink • MetaMask • Git • GitHub • VS Code • PyCharm • Jupyter • Remix IDE
   </p>
 
-  <hr style="width:50%; margin: 20px auto; border-color:#FF4C8B;">
+  <hr style="width:60px; margin:25px auto; border:3px solid #D9822B; border-radius:5px;">
 
-  <h3 style="color:#FF4C8B;">📊 My GitHub Stats</h3>
+  <h3 style="color:#556B2F;">📊 My GitHub Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&theme=radical&hide_border=true" /><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sheryyll&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&theme=gruvbox&hide_border=true&bg_color=FFF8F0&text_color=6B584C&icon_color=D9822B&title_color=556B2F" /><br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sheryyll&theme=gruvbox&hide_border=true&background=FFF8F0&stroke=D9822B&fire=556B2F&currStreakNum=6B584C&sideNums=6B584C&dates=556B2F" />
   </p>
 
-  <hr style="width:50%; margin: 20px auto; border-color:#FF4C8B;">
+  <hr style="width:60px; margin:25px auto; border:3px solid #D9822B; border-radius:5px;">
 
-  <h3 style="color:#FF4C8B;">🤝 Let’s Connect</h3>
+  <h3 style="color:#556B2F;">🤝 Let’s Connect</h3>
   <p>
-    <a href="https://www.linkedin.com/in/jenishashereyl" style="text-decoration:none; color:#0077B5; font-weight:bold;">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/jenishashereyl" style="text-decoration:none; color:#738A5E; font-weight:bold;">LinkedIn</a> •
+    <a href="mailto:sheryyll@example.com" style="text-decoration:none; color:#738A5E; font-weight:bold;">Email</a>
   </p>
 
-  <p style="color:#6C757D; font-style:italic;">💡 "Do small things consistently"</p>
+  <p style="color:#6B584C; font-style:italic; margin-top:15px;">💡 "You will make it happen"</p>
 
 </div>
