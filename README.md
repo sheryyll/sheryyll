@@ -21,10 +21,16 @@
 
   <hr style="width:60px; margin:25px auto; border:3px solid #D9822B; border-radius:5px;">
 
-  <h3 style="color:#556B2F;">📊 My GitHub Stats</h3>
+  <h3 id="stats" style="color:#556B2F;">📊 My GitHub Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&theme=gruvbox&hide_border=true&bg_color=FFF8F0&text_color=6B584C&icon_color=D9822B&title_color=556B2F" /><br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sheryyll&theme=gruvbox&hide_border=true&background=FFF8F0&stroke=D9822B&fire=556B2F&currStreakNum=6B584C&sideNums=6B584C&dates=556B2F" />
+    <!-- Clicking the stats image jumps to the same section -->
+    <a href="#stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&theme=gruvbox&hide_border=true&bg_color=FFF8F0&text_color=6B584C&icon_color=D9822B&title_color=556B2F" />
+    </a>
+    <br><br>
+    <a href="#stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=sheryyll&theme=gruvbox&hide_border=true&background=FFF8F0&stroke=D9822B&fire=556B2F&currStreakNum=6B584C&sideNums=6B584C&dates=556B2F" />
+    </a>
   </p>
 
   <hr style="width:60px; margin:25px auto; border:3px solid #D9822B; border-radius:5px;">
