@@ -51,12 +51,10 @@ jobs:
           NEW_QUOTE=${QUOTES[$((INDEX % COUNT))]}
           echo "NEW_QUOTE=$NEW_QUOTE" >> $GITHUB_ENV
 
-      # Step 4: Replace the quote placeholder in README.md
       - name: Update README
         run: |
           sed -i "s/<span id=\"daily-quote\">.*<\/span>/<span id=\"daily-quote\">$NEW_QUOTE<\/span>/" README.md
 
-      # Step 5: Commit and push changes
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
