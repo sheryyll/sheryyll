@@ -44,13 +44,15 @@ jobs:
           )
 
           COUNT=${#QUOTES[@]}
-          INDEX=$(date +%j)
-          NEW_QUOTE="${QUOTES[$((INDEX % COUNT))]}"
+          RANDOM_INDEX=$((RANDOM % COUNT))
+          NEW_QUOTE="${QUOTES[$RANDOM_INDEX]}"
+
+          echo "Today's quote: $NEW_QUOTE"
           echo "NEW_QUOTE=$NEW_QUOTE" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          # Escape slashes and special chars for sed
+          # Escape slashes and special characters in quote
           SAFE_QUOTE=$(printf '%s\n' "$NEW_QUOTE" | sed -e 's/[\/&]/\\&/g')
           sed -i "s|<span id=\"daily-quote\">.*</span>|<span id=\"daily-quote\">$SAFE_QUOTE</span>|" README.md
 
@@ -61,3 +63,4 @@ jobs:
           git add README.md
           git commit -m "Update daily quote" || echo "No changes to commit"
           git push || echo "Nothing to push"
+        continue-on-error: true
