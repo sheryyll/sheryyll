@@ -2,15 +2,14 @@ name: Update Daily Quote
 
 on:
   schedule:
-    - cron: '0 0 * * *' 
-  workflow_dispatch:   
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-
       - uses: actions/checkout@v3
 
       - name: Set up Node.js
@@ -19,6 +18,7 @@ jobs:
           node-version: 20
 
       - name: Generate new quote
+        id: quote
         run: |
           QUOTES=(
             "Stay curious, stay kind."
@@ -27,38 +27,37 @@ jobs:
             "Learning never stops."
             "Mistakes are proof that you are trying."
             "Small steps every day."
-            "Stick to the plan not to the MOOD"
-            "push yourself because no one else will"
-            "WHAT AARE YOU waiting FOR?"
-            "It's you vs you"
-            "Don't quit before magic happens"
-            "God put that dream in your heart for a REASON"
-            "The cost of procastination is the life you could have lived"
-            "Do it for the little kid that lives within you"
-            "Be someone who still tries"
-            "Your next move matters more than your mistake"
-            "Action cures ANXIETY"
-            "It will all be worth it in the end"
-            "Work on you, for you"
-            "Dream, Plan, Do"
-            
-            
+            "Stick to the plan, not the mood."
+            "Push yourself because no one else will."
+            "What are you waiting for?"
+            "It's you vs you."
+            "Don't quit before magic happens."
+            "God put that dream in your heart for a reason."
+            "The cost of procrastination is the life you could have lived."
+            "Do it for the little kid that lives within you."
+            "Be someone who still tries."
+            "Your next move matters more than your mistake."
+            "Action cures anxiety."
+            "It will all be worth it in the end."
+            "Work on you, for you."
+            "Dream. Plan. Do."
           )
 
-          # Count quotes and select based on day of the year
           COUNT=${#QUOTES[@]}
           INDEX=$(date +%j)
-          NEW_QUOTE=${QUOTES[$((INDEX % COUNT))]}
+          NEW_QUOTE="${QUOTES[$((INDEX % COUNT))]}"
           echo "NEW_QUOTE=$NEW_QUOTE" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          sed -i "s/<span id=\"daily-quote\">.*<\/span>/<span id=\"daily-quote\">$NEW_QUOTE<\/span>/" README.md
+          # Escape slashes and special chars
+          SAFE_QUOTE=$(printf '%s\n' "$NEW_QUOTE" | sed -e 's/[\/&]/\\&/g')
+          sed -i "s|<span id=\"daily-quote\">.*</span>|<span id=\"daily-quote\">$SAFE_QUOTE</span>|" README.md
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update daily quote"
+          git diff --cached --quiet || git commit -m "Update daily quote"
           git push
