@@ -66,7 +66,7 @@
 
   <!-- 💭 Daily Quote -->
   <p style="color:#7E6B80; font-style:italic; margin-top:15px;">
-    🌸 “<span id="daily-quote">Stay curious, stay kind.</span>” 🌸
+    🌸 “<span id="daily-quote">It's you vs you.</span>” 🌸
   </p>
 
 </div>
