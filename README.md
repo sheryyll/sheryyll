@@ -1,5 +1,4 @@
 
-You said:
 <div align="center" style="
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color:#FFF6FA;
