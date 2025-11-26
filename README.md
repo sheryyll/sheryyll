@@ -67,7 +67,7 @@
 
   <!-- 💭 Daily Quote -->
   <p style="color:#7E6B80; font-style:italic; margin-top:15px;">
-    🌸 “<span id="daily-quote">It's you vs you.</span>” 🌸
+    🌸 “<span id="daily-quote">Build. Break. Learn.</span>” 🌸
   </p>
 
 </div>
