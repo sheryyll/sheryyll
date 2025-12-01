@@ -39,25 +39,7 @@
   </p>
 
   <!-- Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E4A0B7&height=2&section=footer&reversal=true&animation=blink" width="50%">
 
-  <!-- 📊 GitHub Stats -->
-  <h3 id="stats" style="color:#E4A0B7; margin-top:25px;">📊 GitHub Stats</h3>
-
-  <p>
-    <a href="#stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&theme=default&hide_border=true&bg_color=FFF6FA&text_color=5A4660&icon_color=C79BEB&title_color=E4A0B7" 
-           alt="GitHub Stats"/>
-    </a>
-    <br><br>
-    <a href="#stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=sheryyll&theme=default&hide_border=true&background=FFF6FA&stroke=C79BEB&fire=E4A0B7&currStreakNum=5A4660&sideNums=5A4660&dates=E4A0B7" 
-           alt="GitHub Streak"/>
-    </a>
-  </p>
-
-  <!-- Gradient Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=linear-gradient(90deg,%23E4A0B7,%23C79BEB,%23E4A0B7)&height=2&section=footer" width="50%">
 
   <!-- 🌸 Socials -->
   <p style="margin-top:25px;">
