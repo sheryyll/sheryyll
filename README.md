@@ -1,4 +1,3 @@
-
 <div align="center" style="
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color:#FFF6FA;
@@ -38,11 +37,33 @@
     ☁️ dreaming • building • learning ☁️
   </p>
 
-  <!-- Divider -->
+  <!-- Divider BEFORE Stats -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E4A0B7&height=2&section=footer&reversal=true" 
+       width="50%" 
+       style="margin:35px 0 25px 0;" />
 
+  <!-- 📊 GitHub Stats -->
+  <h3 id="stats" style="color:#E4A0B7; margin-top:10px;">📊 GitHub Stats</h3>
+
+  <p>
+    <a href="#stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&theme=default&hide_border=true&bg_color=FFF6FA&text_color=5A4660&icon_color=C79BEB&title_color=E4A0B7" 
+           alt="GitHub Stats" />
+    </a>
+    <br><br>
+    <a href="#stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=sheryyll&theme=default&hide_border=true&background=FFF6FA&stroke=C79BEB&fire=E4A0B7&currStreakNum=5A4660&sideNums=5A4660&dates=E4A0B7" 
+           alt="GitHub Streak" />
+    </a>
+  </p>
+
+  <!-- Another Divider (optional, looks clean before socials) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=linear-gradient(90deg,%23E4A0B7,%23C79BEB,%23E4A0B7)&height=2&section=footer" 
+       width="50%" 
+       style="margin:35px 0;" />
 
   <!-- 🌸 Socials -->
-  <p style="margin-top:25px;">
+  <p style="margin-top:15px;">
     <a href="https://www.linkedin.com/in/jenishashereyl" style="color:#C79BEB; font-weight:bold;">LinkedIn</a> •
     <a href="mailto:jenishasheryl@gmail.com" style="color:#C79BEB; font-weight:bold;">Email</a>
   </p>
