@@ -38,12 +38,12 @@
   </p>
 
   <!-- Divider BEFORE Stats -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6DCF7&height=2&section=footer&reversal=true" 
+  <!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=E6DCF7&height=2&section=footer&reversal=true" 
        width="50%" 
-       style="margin:35px 0 25px 0;" />
+       style="margin:35px 0 25px 0;" />-->
 
   <!-- 📊 GitHub Stats -->
-  <h3 id="stats" style="color:#C4ACEB; margin-top:10px;">📊 GitHub Stats</h3>
+ <!-- <h3 id="stats" style="color:#C4ACEB; margin-top:10px;">📊 GitHub Stats</h3>
 
   <p>
     <a href="#stats">
@@ -55,12 +55,12 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=sheryyll&theme=default&hide_border=true&background=F7F3FC&stroke=B59AE6&fire=C4ACEB&currStreakNum=6A5A7B&sideNums=6A5A7B&dates=C4ACEB" 
            alt="GitHub Streak" />
     </a>
-  </p>
+  </p> -->
 
   <!-- Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6DCF7&height=2&section=footer&reversal=true" 
+  <!--<img src="https://capsule-render.vercel.app/api?type=rect&color=E6DCF7&height=2&section=footer&reversal=true" 
        width="50%" 
-       style="margin:35px 0 25px 0;" />
+       style="margin:35px 0 25px 0;" />-->
 
   <!-- 🌸 Socials -->
   <p style="margin-top:15px;">
