@@ -68,14 +68,14 @@
   </h3>
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&hide_border=true&bg_color=F7F3FC&text_color=6A5A7B&icon_color=B59AE6&title_color=C4ACEB"
+    src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&hide_border=true&bg_color=E6E6FA&text_color=555555&icon_color=B59AE6&title_color=888888"
     alt="GitHub Stats"
   />
 
   <br><br>
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=sheryyll&hide_border=true&background=F7F3FC&stroke=C4ACEB&fire=B59AE6&currStreakNum=6A5A7B&sideNums=6A5A7B&dates=C4ACEB"
+    src="https://github-readme-streak-stats.herokuapp.com?user=sheryyll&hide_border=true&background=E6E6FA&stroke=888888&fire=B59AE6&currStreakNum=555555&sideNums=555555&dates=888888"
     alt="GitHub Streak"
   />
 
