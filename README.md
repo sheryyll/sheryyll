@@ -62,6 +62,7 @@
     📊 GitHub Stats
   </h3>
 
+  <!-- GitHub Stats -->
   <a href="https://github.com/sheryyll">
     <img
       src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&hide_border=true&bg_color=F9F7FD&text_color=6C5B7B&icon_color=B185DB&title_color=9F86C0"
@@ -71,6 +72,7 @@
 
   <br><br>
 
+  <!-- GitHub Streak -->
   <a href="https://github.com/sheryyll">
     <img
       src="https://github-readme-stats.vercel.app/api/streak-stats/?user=sheryyll&background=F9F7FD&stroke=E0C3FC&fire=B185DB&ring=9F86C0&currStreakNum=6C5B7B&sideNums=6C5B7B&dates=9A8C9E"
