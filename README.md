@@ -7,6 +7,7 @@
   margin:auto;
 ">
 
+  <!-- Top gradient bar -->
   <div style="
     width:100%;
     height:75px;
@@ -15,6 +16,7 @@
     margin:-45px -30px 30px -30px;
   "></div>
 
+  <!-- Header -->
   <h1 style="
     color:#9F86C0;
     font-weight:700;
@@ -25,6 +27,7 @@
     I’m <i>sheryyll</i>
   </h1>
 
+  <!-- Typing animation -->
   <p style="margin:12px 0 18px 0;">
     <img
       src="https://readme-typing-svg.herokuapp.com?size=25&color=9F86C0&center=true&vCenter=true&width=460&lines=Exploring+Machine+Learning;Learning+Web3+%26+Blockchain"
@@ -32,6 +35,7 @@
     />
   </p>
 
+  <!-- About me -->
   <p style="
     color:#6C5B7B;
     font-size:16px;
@@ -43,6 +47,7 @@
     Creating small things with a big heart 🌷
   </p>
 
+  <!-- Tagline -->
   <p style="
     font-size:14px;
     color:#9A8C9E;
@@ -51,6 +56,7 @@
     ☁️ dreaming • building • learning ☁️
   </p>
 
+  <!-- Separator -->
   <div style="
     width:55%;
     height:2px;
@@ -58,28 +64,30 @@
     margin:38px auto 28px auto;
   "></div>
 
+  <!-- GitHub Stats Section -->
   <h3 style="color:#B09ECC; margin-bottom:18px;">
     📊 GitHub Stats
   </h3>
 
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats Card -->
   <a href="https://github.com/sheryyll">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&hide_border=true&bg_color=F9F7FD&text_color=6C5B7B&icon_color=B185DB&title_color=9F86C0"
+      src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&hide_border=true&bg_color=#F9F7FD&text_color=#6C5B7B&icon_color=#B185DB&title_color=#9F86C0&cache_seconds=0"
       alt="GitHub Stats"
     />
   </a>
 
   <br><br>
 
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak Card -->
   <a href="https://github.com/sheryyll">
     <img
-      src="https://github-readme-stats.vercel.app/api/streak-stats/?user=sheryyll&background=F9F7FD&stroke=E0C3FC&fire=B185DB&ring=9F86C0&currStreakNum=6C5B7B&sideNums=6C5B7B&dates=9A8C9E"
+      src="https://github-readme-stats.vercel.app/api/streak-stats/?user=sheryyll&background=#F9F7FD&stroke=#E0C3FC&fire=#B185DB&ring=#9F86C0&currStreakNum=#6C5B7B&sideNums=#6C5B7B&dates=#9A8C9E&cache_seconds=0"
       alt="GitHub Streak"
     />
   </a>
 
+  <!-- Separator -->
   <div style="
     width:55%;
     height:2px;
@@ -87,6 +95,7 @@
     margin:38px auto 25px auto;
   "></div>
 
+  <!-- Contact Links -->
   <p style="margin-top:10px;">
     <a href="https://www.linkedin.com/in/jenishashereyl"
        style="color:#9F86C0; font-weight:600; text-decoration:none;">
@@ -99,6 +108,7 @@
     </a>
   </p>
 
+  <!-- Footer quote -->
   <p style="
     color:#9A8C9E;
     font-style:italic;
