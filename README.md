@@ -73,7 +73,7 @@
 
   <a href="https://github.com/sheryyll">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=sheryyll&hide_border=true&background=F9F7FD&stroke=E0C3FC&fire=B185DB&ring=9F86C0&currStreakNum=6C5B7B&sideNums=6C5B7B&dates=9A8C9E"
+      src="https://github-readme-stats.vercel.app/api/streak-stats/?user=sheryyll&background=F9F7FD&stroke=E0C3FC&fire=B185DB&ring=9F86C0&currStreakNum=6C5B7B&sideNums=6C5B7B&dates=9A8C9E"
       alt="GitHub Streak"
     />
   </a>
