@@ -1,47 +1,47 @@
 <div align="center" style="
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color:#F9F7FD;
-  padding:45px 30px;
+  background-color:#0B1020;
+  padding:46px 32px;
   border-radius:22px;
   max-width:780px;
   margin:auto;
 ">
 
-  <!-- Top gradient bar -->
+  <!-- Top bar -->
   <div style="
     width:100%;
-    height:75px;
-    background:linear-gradient(135deg,#E0C3FC,#CBB2FE,#F3E7FC);
+    height:72px;
+    background-color:#141A3A;
     border-radius:22px 22px 0 0;
-    margin:-45px -30px 30px -30px;
+    margin:-46px -32px 30px -32px;
   "></div>
 
   <!-- Header -->
   <h1 style="
-    color:#9F86C0;
+    color:#C7C9FF;
     font-weight:700;
-    margin-bottom:8px;
-    line-height:1.3;
+    margin-bottom:10px;
+    line-height:1.35;
   ">
     Hello from my little corner of GitHub ☁️<br>
     I’m <i>sheryyll</i>
   </h1>
 
   <!-- Typing animation -->
-  <p style="margin:12px 0 18px 0;">
+  <p style="margin:14px 0 20px 0;">
     <img
-      src="https://readme-typing-svg.herokuapp.com?size=25&color=9F86C0&center=true&vCenter=true&width=460&lines=Exploring+Machine+Learning;Learning+Web3+%26+Blockchain"
+      src="https://readme-typing-svg.herokuapp.com?size=25&color=C7C9FF&center=true&vCenter=true&width=460&lines=Exploring+Machine+Learning;Learning+Web3+%26+Blockchain"
       alt="Typing Animation"
     />
   </p>
 
   <!-- About me -->
   <p style="
-    color:#6C5B7B;
+    color:#E2E4FF;
     font-size:16px;
     max-width:560px;
     margin:auto;
-    line-height:1.65;
+    line-height:1.7;
   ">
     A curious developer exploring <b>Machine Learning</b> and <b>Web3</b>.<br>
     Creating small things with a big heart 🌷
@@ -50,7 +50,7 @@
   <!-- Tagline -->
   <p style="
     font-size:14px;
-    color:#9A8C9E;
+    color:#B8BBF7;
     margin-top:14px;
   ">
     ☁️ dreaming • building • learning ☁️
@@ -60,59 +60,71 @@
   <div style="
     width:55%;
     height:2px;
-    background:linear-gradient(90deg,#F9F7FD,#CBB2FE,#E0C3FC,#F9F7FD);
-    margin:38px auto 28px auto;
+    background-color:#2A2F66;
+    margin:38px auto 30px auto;
+    border-radius:2px;
   "></div>
 
-  <!-- GitHub Stats Section -->
-  <h3 style="color:#B09ECC; margin-bottom:18px;">
+  <!-- GitHub Stats -->
+  <h3 style="color:#C7C9FF; margin-bottom:18px;">
     📊 GitHub Stats
   </h3>
 
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/sheryyll">
+  <div style="
+    background:#151A3D;
+    padding:16px;
+    border-radius:18px;
+    margin-bottom:18px;
+  ">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=sheryyll&show_icons=true&hide_border=true&bg_color=#F9F7FD&text_color=#6C5B7B&icon_color=#B185DB&title_color=#9F86C0&cache_seconds=0"
+      src="https://github-readme-stats-fast.vercel.app/api?username=sheryyll&show_icons=true&hide_border=true&bg_color=151A3D&title_color=C7C9FF&text_color=E2E4FF&icon_color=B8BBF7"
+      style="max-width:100%;"
       alt="GitHub Stats"
     />
-  </a>
+  </div>
 
-  <br><br>
-
-  <!-- GitHub Streak Card -->
-  <a href="https://github.com/sheryyll">
+<!-- GitHub Streak (dark-lavender matched) -->
+<div style="
+  background:#151A3D;
+  padding:16px;
+  border-radius:18px;
+">
+  <a href="https://github.com/sheryyll" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/streak-stats/?user=sheryyll&background=#F9F7FD&stroke=#E0C3FC&fire=#B185DB&ring=#9F86C0&currStreakNum=#6C5B7B&sideNums=#6C5B7B&dates=#9A8C9E&cache_seconds=0"
+      src="https://nirzak-streak-stats.vercel.app/?user=sheryyll&hide_border=true&ring=C7C9FF&fire=C7C9FF&currStreakLabel=C7C9FF&sideLabels=C7C9FF&dates=C7C9FF&currStreakNum=B8BBF7&sideNums=B8BBF7&background=151A3D"
+      style="max-width:100%;"
       alt="GitHub Streak"
     />
   </a>
+</div>
 
   <!-- Separator -->
   <div style="
     width:55%;
     height:2px;
-    background:linear-gradient(90deg,#F9F7FD,#CBB2FE,#E0C3FC,#F9F7FD);
-    margin:38px auto 25px auto;
+    background-color:#2A2F66;
+    margin:40px auto 26px auto;
+    border-radius:2px;
   "></div>
 
-  <!-- Contact Links -->
+  <!-- Contact -->
   <p style="margin-top:10px;">
     <a href="https://www.linkedin.com/in/jenishashereyl"
-       style="color:#9F86C0; font-weight:600; text-decoration:none;">
+       style="color:#C7C9FF; font-weight:600; text-decoration:none;">
       LinkedIn
     </a>
     &nbsp;•&nbsp;
     <a href="mailto:jenishasheryl@gmail.com"
-       style="color:#B185DB; font-weight:600; text-decoration:none;">
+       style="color:#E2E4FF; font-weight:600; text-decoration:none;">
       Email
     </a>
   </p>
 
-  <!-- Footer quote -->
+  <!-- Footer -->
   <p style="
-    color:#9A8C9E;
+    color:#B8BBF7;
     font-style:italic;
-    margin-top:18px;
+    margin-top:20px;
   ">
     ☁️ “If it’s your calling, it will keep calling.” ☁️
   </p>
