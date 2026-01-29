@@ -66,7 +66,7 @@
   "></div>
 
   <!-- GitHub Stats -->
-  <h3 style="color:#C7C9FF; margin-bottom:18px;">
+  <!-- <h3 style="color:#C7C9FF; margin-bottom:18px;">
     📊 GitHub Stats
   </h3>
 
@@ -81,10 +81,10 @@
       style="max-width:100%;"
       alt="GitHub Stats"
     />
-  </div>
+  </div> -->
 
 <!-- GitHub Streak (dark-lavender matched) -->
-<div style="
+<!-- <div style="
   background:#151A3D;
   padding:16px;
   border-radius:18px;
@@ -96,7 +96,7 @@
       alt="GitHub Streak"
     />
   </a>
-</div>
+</div> -->
 
   <!-- Separator -->
   <div style="
