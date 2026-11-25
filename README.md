@@ -114,7 +114,7 @@
       LinkedIn
     </a>
     &nbsp;•&nbsp;
-    <a href="mailto:jenishasheryl@gmail.com"
+    <a href="mailto:jenishashereyl@gmail.com"
        style="color:#E2E4FF; font-weight:600; text-decoration:none;">
       Email
     </a>
